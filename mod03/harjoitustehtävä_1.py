@@ -1,0 +1,10 @@
+print('Hei, maailma!')
+
+print("Hei, maailma!")
+
+print('"Hei", sanoi Ville')
+
+print("Hyvää")
+print("huomenta")
+
+print("Hyvää\nhuomenta")
