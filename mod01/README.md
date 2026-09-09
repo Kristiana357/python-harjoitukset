@@ -28,4 +28,4 @@ Tein harjoitus- ja kotitehtäviä (1-4)
 
 ## Moduuli 7
 
-Tein harjoitus- ja kotitehtäviä (1-5)
+Tein harjoitus- ja kotitehtäviä (1-5) + Projekti 3
